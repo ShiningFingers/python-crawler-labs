@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Node
+node_modules/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 解压中间产物
+unpacked/
+unpacked2/
+unpacked3/
+
+# 大文件 / 课程资料 / 软件安装包
+*.flv
+*.exe
+*.rar
+*.zip
+
+# 他人作业（学号_姓名 命名）
+10.2.61.*.py
+
+# 系统文件
+.DS_Store
+Thumbs.db
